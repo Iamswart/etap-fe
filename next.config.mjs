@@ -4,19 +4,19 @@ const nextConfig = {
         remotePatterns:[
             {
                 protocol: 'https',
-                hostname: 'www.zuzudelights.com',
+                hostname: 'www.etap-fe.vercel.app',
                 port: '',
                 pathname:"/**"
             },
             {
                 protocol: 'https',
-                hostname: 'www.zuzudelights.com',
+                hostname: 'www.etap-fe.vercel.app',
                 port: '',
                 pathname:"/**"
             },
             {
                 protocol: 'https',
-                hostname: 'www.zuzudelights.com',
+                hostname: 'www.etap-fe.vercel.app',
                 port: '',
                 pathname: '/wp-content/uploads/**'
             }
